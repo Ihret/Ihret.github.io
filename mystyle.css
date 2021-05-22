@@ -4,50 +4,47 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	color: DarkGreen;
-	font-family: Verdana;
-	font-weigh: bold;
-	backup font-family: Serifenschrift;
+	font-family: Verdana, serif;
+	font-weight: bold;
 }
 
 p {
 	color: ForestGreen;
-	font-family: Georgia;
+	font-family: Georgia, serif;
 	font-size: 20px;
-	backup font-family: Serifenschrift;
 }
 
 footer {
 	color: LawnGreen;
-	font-family: Georgia;
+	font-family: Georgia, serif;
 	font-size: 12px;
 }
 
 table {
 	color: ForestGreen;
-	font-family: Georgia;
+	font-family: Georgia, serif;
 	font-size: 20px;
-	backup font-family: Serifenschrift;
+
 }
 
 span {
-	font-family: Georgia;
+	font-family: Georgia, serif;
 	color:LawnGreen;
-	font-weigh:bold;
-	font-weigh:underline;
+	font-weight:bold;
+	text-decoration:underline;
 }
 
 nav{
 	color:DarkGreen;
-	font-family: Verdana;
+	font-family: Verdana, serif;
 }
 
 img {
 	width: 80%;
 	border-radius: 5px;
-	float: right-side;
 	margin-right: 10px;
 }
 
-video{
+iframe{
 	width: 80%;
 }
