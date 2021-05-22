@@ -1,0 +1,53 @@
+body {
+	background-color:Orange;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+	color: DarkGreen;
+	font-family: Verdana;
+	font-weigh: bold;
+	backup font-family: Serifenschrift;
+}
+
+p {
+	color: ForestGreen;
+	font-family: Georgia;
+	font-size: 20px;
+	backup font-family: Serifenschrift;
+}
+
+footer {
+	color: LawnGreen;
+	font-family: Georgia;
+	font-size: 12px;
+}
+
+table {
+	color: ForestGreen;
+	font-family: Georgia;
+	font-size: 20px;
+	backup font-family: Serifenschrift;
+}
+
+span {
+	font-family: Georgia;
+	color:LawnGreen;
+	font-weigh:bold;
+	font-weigh:underline;
+}
+
+nav{
+	color:DarkGreen;
+	font-family: Verdana;
+}
+
+img {
+	width: 100%;
+	border-radius: 5px;
+	float: right-side;
+	margin-right: 10px;
+}
+
+video{
+	width: 100%;
+}
